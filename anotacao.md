@@ -37,7 +37,8 @@ git config user.email
 ```
 cls 
 ```
-- Directory.
+- Directory;
+- Apresenta todos os diretórios.
 ```
 dir
 ```
@@ -52,6 +53,9 @@ mkdir
 - Sai do cmd.
 ```
 exit
+```
+```
+
 ```
 
 ## VSC
@@ -83,3 +87,4 @@ copy con git.txt
 - Nome do programa;
 - Comandos e paramêtros opcionais;
 - Se diferencia os camandos com por espaço;
+## Repositória é uma pasta
