@@ -41,8 +41,6 @@ git add .
 git commit -m ""
 ```
 
-###
-
 
 # Comandos
 - Limpa a tela.
@@ -111,4 +109,3 @@ nome/.git
 - Ramificação.
 ## Commit
 - Confirmar.
-## 
