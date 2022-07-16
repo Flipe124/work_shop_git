@@ -27,7 +27,19 @@ git config user.name
 ```
 git config user.email
 ```
-
+### Manipulação do repositório
+- Inicía o repositório
+```
+git init
+```
+- Adiciona os arquivos
+```
+git add .
+```
+- Confirma po repositório
+```
+git commit -m ""
+```
 
 ###
 
@@ -54,8 +66,9 @@ mkdir
 ```
 exit
 ```
+- Lista todos os arquivos 
 ```
-
+dir -a
 ```
 
 ## VSC
@@ -88,3 +101,14 @@ copy con git.txt
 - Comandos e paramêtros opcionais;
 - Se diferencia os camandos com por espaço;
 ## Repositória é uma pasta
+## Terminação no nome da pasta 
+- Exemplo;
+```
+nome/.git
+```
+- .git simboliza uma pasta oculta.
+## Branch
+- Ramificação.
+## Commit
+- Confirmar.
+## 
