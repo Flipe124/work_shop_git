@@ -1,10 +1,14 @@
 # Dia 16/07/2022  - GIT
 
-<center>
-<img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494740.png?token=exp=1657992341~hmac=6d15e1e608588722450060a24e7a1509" width="100px">
-</center>
 
-# Comando GIT
+<div style="margin: 0px auto; width: 100px;">
+
+![alt](https://cdn-icons.flaticon.com/png/512/4494/premium/4494740.png?token=exp=1657992341~hmac=6d15e1e608588722450060a24e7a1509)
+
+</div>
+
+# Comandos GIT
+## Introdutórios 
 ```
 git 
 ```
@@ -14,13 +18,15 @@ git --help
 ```
 git --version
 ```
-### Se identificar
+## Se identificando:
+
 ```
-git config --global user.name <"nome">
+git config --global user.name <"NOME">
 ```
 ```
-git config --global user.email <"email">
+git config --global user.email <EMAIL>
 ```
+### Apresenta o que está registrado
 ```
 git config user.name
 ```
