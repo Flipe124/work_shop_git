@@ -2,7 +2,7 @@
 # Dia 16/07/2022  - GIT
 
 
-<div style="margin: 0px auto; width: 200px;">
+<div style="margin: 0px auto; width: 100px;">
 
 ![alt](https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_960_720.png)
 
