@@ -1,3 +1,4 @@
+<div style="background-image: linear-gradient(red, yellow);">
 # Dia 16/07/2022  - GIT
 
 
@@ -115,3 +116,6 @@ nome/.git
 - Ramificação.
 ## Commit
 - Confirmar.
+
+
+</div>
