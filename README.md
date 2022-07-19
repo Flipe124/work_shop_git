@@ -17,6 +17,7 @@ git --help
 ```
 git --version
 ```
+
 <br>
 <hr>
 <br>
@@ -31,6 +32,7 @@ git config --global user.name <"NOME">
 ```
 git config --global user.email <EMAIL>
 ```
+
 <br>
 <hr>
 <br>
@@ -49,6 +51,7 @@ git add .
 ```
 git commit -m ""
 ```
+
 <br>
 
 # Comandos
