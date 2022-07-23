@@ -174,3 +174,4 @@ nome/.git
 - Confirmar.
 
 
+# Dia 23/07/2022
