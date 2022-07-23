@@ -173,5 +173,12 @@ nome/.git
 ## Commit
 - Confirmar.
 
+<br>
+<hr>
+<br>
 
-# Dia 23/07/2022
+![pyp1](https://img.shields.io/badge/Data-23%2F07%2F2022-blueviolet?style=for-the-badge)
+- Clonar um repositório com uma nome diferente na pasta
+```
+git clone <url> <outro nome>
+```
